@@ -1683,7 +1683,6 @@ class IRC22_2014:
         }
 
 
-
     @staticmethod
     def cl_606_4_1_1_full_shear_spacing(
         As_mm2,             # Asl in clause: tensile reinforcement area in longitudinal direction (mm2)
